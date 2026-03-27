@@ -1,93 +1,92 @@
-# Hola, soy Carlos Ivan Moreno 👋
+<div align="center">
 
-**Senior Software Engineer | Tech Lead | DevOps & Linux**
+# Ivan Moreno
 
-+10 anos construyendo soluciones escalables, seguras y orientadas a negocio.
+### Senior Software Engineer | Tech Lead | DevOps & Linux
 
----
+*+10 years building software that scales, ships, and stays secure.*
 
-## Sobre mi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-moreno-contreras/)
+[![Email](https://img.shields.io/badge/carlosivanmorenoc@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosivanmorenoc@gmail.com)
 
-Ingeniero de software con mas de una decada de experiencia liderando y desarrollando soluciones tecnologicas en entornos productivos.
-
-Actualmente me desempeno como **Tech Lead**, combinando desarrollo, arquitectura y liderazgo tecnico para entregar software de alta calidad.
-
-- Desarrollo FullStack (Backend + Frontend)
-- Diseno de arquitecturas escalables y mantenibles
-- Enfoque en seguridad, rendimiento y buenas practicas
-- Administracion de sistemas Linux y servidores
-- Automatizacion de procesos y CI/CD
-- Mentoria a desarrolladores y liderazgo de equipos tecnicos
+</div>
 
 ---
 
-## Proyecto destacado
+I'm a software engineer with over a decade of experience leading teams, designing architectures, and shipping production systems. Currently working as **Tech Lead**, where I combine hands-on development with technical strategy to deliver high-quality software.
 
-### [infraaudit](https://github.com/civanmoreno/infraaudit)
+I care deeply about **security**, **performance**, and building things that last. I'm most at home in the terminal — automating infrastructure, hardening servers, and writing tools that solve real problems.
 
-CLI para auditoria de seguridad en servidores Linux basada en estandares como **CIS Benchmarks**, **STIG** y buenas practicas de hardening.
-
-Permite validar configuracion del sistema, usuarios y permisos, servicios y puertos, y la postura general de seguridad. Enfocado en VPS y entornos productivos reales.
-
----
-
-## Experiencia relevante
-
-**Tech Lead** — Contenidos Smart Web Apps *(2024 - Actualidad)*
-> Liderazgo tecnico, CI/CD, definicion de estandares de desarrollo, code reviews, mentoria y optimizacion de rendimiento.
-
-**Ingeniero de Desarrollo** — Kienyke *(2020 - 2024)*
-> Desarrollo backend (PHP, Go) y frontend (React), integracion de APIs REST, optimizacion de sistemas.
-
-**+6 anos previos como FullStack / Backend Developer**
-> CMS (Drupal, Wordpress), administracion de servidores Linux, integraciones con APIs y CRM.
+- FullStack development (Backend + Frontend)
+- Scalable and maintainable architecture design
+- Linux systems administration and server management
+- CI/CD pipelines and process automation
+- Developer mentoring and technical team leadership
 
 ---
 
-## Stack tecnico
-
-| Area | Tecnologias |
-|---|---|
-| **Lenguajes** | Go, PHP, JavaScript, TypeScript |
-| **Frontend** | React JS, Angular |
-| **Backend** | Node.js, Laravel, APIs REST |
-| **DevOps & Infra** | Linux (Ubuntu, CentOS, VPS), Docker, CI/CD, Git, SSH |
-| **Otros** | SQL, Drupal, Wordpress, SEO, Web Performance |
-
----
-
-## GitHub Stats
+### What I work with
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=civanmoreno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civanmoreno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </p>
 
 ---
 
-## Actualmente enfocado en
+### Where I've been
 
-- Desarrollo de herramientas CLI para DevOps
-- Seguridad y auditoria de infraestructura
-- Automatizacion de entornos y despliegues
-- Mejora continua de **infraaudit**
+**Tech Lead** — Contenidos Smart Web Apps *(2024 - Present)*
+> Leading technical decisions, implementing CI/CD, defining development standards, mentoring developers, and optimizing performance across backend, frontend, and databases.
 
----
+**Development Engineer** — Kienyke *(2020 - 2024)*
+> Backend development in PHP and Go, frontend with React, REST API integrations, and system optimization.
 
-## Enfoque profesional
-
-Construyo soluciones que escalan correctamente, son seguras por diseno, reducen complejidad operativa y generan impacto real en negocio.
+**+6 years as FullStack / Backend Developer**
+> Building complete web solutions on CMS platforms (Drupal, WordPress), managing Linux servers, and integrating APIs and CRMs.
 
 ---
 
-## Contacto
+### Featured project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-moreno-contreras/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosivanmorenoc@gmail.com)
+#### [`infraaudit`](https://github.com/civanmoreno/infraaudit) — Linux security auditing CLI
+
+A command-line tool that audits Linux servers against **CIS Benchmarks**, **STIG**, and hardening best practices. It validates system configuration, users & permissions, services, open ports, and overall security posture. Built for real VPS and production environments.
 
 ---
 
-> *"El software no solo debe funcionar, debe ser escalable, seguro y mantenible."*
+### What I'm focused on right now
+
+- Building CLI tools for DevOps workflows
+- Infrastructure security and auditing
+- Environment and deployment automation
+- Continuous improvement of **infraaudit**
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=civanmoreno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civanmoreno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+---
+
+<div align="center">
+
+*"Software should not just work — it should scale, stay secure, and be maintainable."*
+
+</div>
