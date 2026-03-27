@@ -1,122 +1,113 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ivan+Moreno;Senior+Software+Engineer+%7C+Tech+Lead" alt="Typing SVG" />
-
-**DevOps & Linux | +10 anos construyendo software que escala y perdura**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=220&section=header&text=Ivan%20Moreno&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20DevOps%20%26%20Linux&descSize=18&descColor=70A5FD&descAlignY=55" width="100%" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-moreno-contreras/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosivanmorenoc@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=civanmoreno&style=for-the-badge&color=70A5FD&label=VISITAS+AL+PERFIL)](https://github.com/civanmoreno)
 
 </div>
 
 <br>
 
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+
 ## Sobre mi
 
-Ingeniero de software con mas de una decada de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion.
+Ingeniero de software con **+10 anos** de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion.
 
-Actualmente trabajo como **Tech Lead**, donde combino desarrollo hands-on con estrategia tecnica para entregar software de alta calidad. Me apasiona la **seguridad**, el **rendimiento** y construir cosas que perduren. Mi lugar natural es la terminal — automatizando infraestructura, haciendo hardening de servidores y creando herramientas que resuelven problemas reales.
+Actualmente trabajo como **Tech Lead**, donde combino desarrollo hands-on con estrategia tecnica para entregar software de alta calidad.
 
-<br>
+Me apasiona la **seguridad**, el **rendimiento** y construir cosas que perduren. Mi lugar natural es la terminal — automatizando infraestructura, haciendo hardening de servidores y creando herramientas que resuelven problemas reales.
+
+<br clear="both">
+
+---
 
 ## Stack tecnico
 
 <div align="center">
 
-#### Lenguajes
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Frontend & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### DevOps & Infra
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,php,ts,js,react,angular,nodejs,laravel,linux,docker,git,mysql,bash,nginx,redis,vscode&perline=8&theme=dark" alt="Tech Stack" />
 
 </div>
 
-<br>
+---
 
 ## Experiencia
 
 <table>
 <tr>
-<td width="120" align="center"><b>2024 - Hoy</b></td>
+<td width="130" align="center">
+<br>
+<b>2024</b><br><sub>Actualidad</sub>
+<br><br>
+</td>
 <td>
-<b>Tech Lead</b> — Contenidos Smart Web Apps<br>
-<sub>Liderazgo tecnico, CI/CD, estandares de desarrollo, mentoria y optimizacion de rendimiento en backend, frontend y bases de datos.</sub>
+<h4>Tech Lead — Contenidos Smart Web Apps</h4>
+Liderazgo tecnico y toma de decisiones arquitectonicas. Implementacion de CI/CD, definicion de estandares de desarrollo, code reviews, mentoria y optimizacion de rendimiento en backend, frontend y bases de datos.
 </td>
 </tr>
 <tr>
-<td width="120" align="center"><b>2020 - 2024</b></td>
+<td width="130" align="center">
+<br>
+<b>2020</b><br><sub>2024</sub>
+<br><br>
+</td>
 <td>
-<b>Ingeniero de Desarrollo</b> — Kienyke<br>
-<sub>Backend en PHP y Go, frontend con React, APIs REST y optimizacion de sistemas.</sub>
+<h4>Ingeniero de Desarrollo — Kienyke</h4>
+Desarrollo backend en PHP y Go, frontend con React, integracion de APIs REST y optimizacion de sistemas.
 </td>
 </tr>
 <tr>
-<td width="120" align="center"><b>+6 anos</b></td>
+<td width="130" align="center">
+<br>
+<b>+6 anos</b><br><sub>previos</sub>
+<br><br>
+</td>
 <td>
-<b>FullStack / Backend Developer</b><br>
-<sub>Soluciones web sobre CMS (Drupal, WordPress), servidores Linux, integraciones con APIs y CRMs.</sub>
+<h4>FullStack / Backend Developer</h4>
+Soluciones web completas sobre CMS (Drupal, WordPress), administracion de servidores Linux e integraciones con APIs y CRMs.
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 ## Proyecto destacado
 
-<a href="https://github.com/civanmoreno/infraaudit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=civanmoreno&repo=infraaudit&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
 
-<br><br>
+### [`infraaudit`](https://github.com/civanmoreno/infraaudit)
 
-> **infraaudit** — CLI de auditoria de seguridad en Linux contra **CIS Benchmarks**, **STIG** y buenas practicas de hardening. Valida configuracion del sistema, usuarios, permisos, servicios y puertos. Construida para VPS y entornos productivos reales.
+**CLI de auditoria de seguridad en Linux**
 
-<br>
+</div>
+
+Herramienta de linea de comandos que audita servidores Linux contra **CIS Benchmarks**, **STIG** y buenas practicas de hardening. Valida configuracion del sistema, usuarios, permisos, servicios y puertos. Construida para VPS y entornos productivos reales.
+
+```bash
+# Ejecutar auditoria completa
+infraaudit --full-scan --output report.json
+```
+
+---
 
 ## En lo que estoy enfocado ahora
 
 ```text
-Herramientas CLI para DevOps        ███████████████████░░   90%
-Seguridad y auditoria de infra      ████████████████████░   95%
-Automatizacion de despliegues       ██████████████████░░░   85%
-Mejora continua de infraaudit       ████████████████████░   95%
+🔧  Herramientas CLI para DevOps        ███████████████████░░   90%
+🔒  Seguridad y auditoria de infra      ████████████████████░   95%
+🚀  Automatizacion de despliegues       ██████████████████░░░   85%
+🛠️  Mejora continua de infraaudit       ████████████████████░   95%
 ```
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=civanmoreno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civanmoreno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=civanmoreno&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
 
 ---
 
 <div align="center">
 
-*"El software no solo debe funcionar — debe escalar, ser seguro y mantenible."*
+### *"El software no solo debe funcionar — debe escalar, ser seguro y mantenible."*
 
 </div>
