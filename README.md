@@ -12,8 +12,6 @@
 
 <br>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
-
 ## Sobre mi
 
 Ingeniero de software con **+10 anos** de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion.
