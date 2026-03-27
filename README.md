@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=220&section=header&text=Ivan%20Moreno&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20DevOps%20%26%20Linux&descSize=18&descColor=70A5FD&descAlignY=55" width="100%" />
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-moreno-contreras/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosivanmorenoc@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=civanmoreno&style=for-the-badge&color=70A5FD&label=VISITAS+AL+PERFIL)](https://github.com/civanmoreno)
