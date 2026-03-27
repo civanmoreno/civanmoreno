@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | Tech Lead | DevOps & Linux
 
-*+10 years building software that scales, ships, and stays secure.*
+*+10 anos construyendo software que escala, se entrega y se mantiene seguro.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-moreno-contreras/)
 [![Email](https://img.shields.io/badge/carlosivanmorenoc@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosivanmorenoc@gmail.com)
@@ -13,19 +13,19 @@
 
 ---
 
-I'm a software engineer with over a decade of experience leading teams, designing architectures, and shipping production systems. Currently working as **Tech Lead**, where I combine hands-on development with technical strategy to deliver high-quality software.
+Soy ingeniero de software con mas de una decada de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion. Actualmente trabajo como **Tech Lead**, donde combino desarrollo hands-on con estrategia tecnica para entregar software de alta calidad.
 
-I care deeply about **security**, **performance**, and building things that last. I'm most at home in the terminal — automating infrastructure, hardening servers, and writing tools that solve real problems.
+Me apasiona la **seguridad**, el **rendimiento** y construir cosas que perduren. Mi lugar natural es la terminal — automatizando infraestructura, haciendo hardening de servidores y creando herramientas que resuelven problemas reales.
 
-- FullStack development (Backend + Frontend)
-- Scalable and maintainable architecture design
-- Linux systems administration and server management
-- CI/CD pipelines and process automation
-- Developer mentoring and technical team leadership
+- Desarrollo FullStack (Backend + Frontend)
+- Diseno de arquitecturas escalables y mantenibles
+- Administracion de sistemas Linux y servidores
+- Pipelines de CI/CD y automatizacion de procesos
+- Mentoria a desarrolladores y liderazgo de equipos tecnicos
 
 ---
 
-### What I work with
+### Con que trabajo
 
 <p align="center">
 
@@ -46,33 +46,33 @@ I care deeply about **security**, **performance**, and building things that last
 
 ---
 
-### Where I've been
+### Por donde he pasado
 
-**Tech Lead** — Contenidos Smart Web Apps *(2024 - Present)*
-> Leading technical decisions, implementing CI/CD, defining development standards, mentoring developers, and optimizing performance across backend, frontend, and databases.
+**Tech Lead** — Contenidos Smart Web Apps *(2024 - Actualidad)*
+> Liderazgo tecnico, implementacion de CI/CD, definicion de estandares de desarrollo, mentoria a desarrolladores y optimizacion de rendimiento en backend, frontend y bases de datos.
 
-**Development Engineer** — Kienyke *(2020 - 2024)*
-> Backend development in PHP and Go, frontend with React, REST API integrations, and system optimization.
+**Ingeniero de Desarrollo** — Kienyke *(2020 - 2024)*
+> Desarrollo backend en PHP y Go, frontend con React, integracion de APIs REST y optimizacion de sistemas.
 
-**+6 years as FullStack / Backend Developer**
-> Building complete web solutions on CMS platforms (Drupal, WordPress), managing Linux servers, and integrating APIs and CRMs.
-
----
-
-### Featured project
-
-#### [`infraaudit`](https://github.com/civanmoreno/infraaudit) — Linux security auditing CLI
-
-A command-line tool that audits Linux servers against **CIS Benchmarks**, **STIG**, and hardening best practices. It validates system configuration, users & permissions, services, open ports, and overall security posture. Built for real VPS and production environments.
+**+6 anos como FullStack / Backend Developer**
+> Construccion de soluciones web completas sobre CMS (Drupal, WordPress), administracion de servidores Linux e integraciones con APIs y CRMs.
 
 ---
 
-### What I'm focused on right now
+### Proyecto destacado
 
-- Building CLI tools for DevOps workflows
-- Infrastructure security and auditing
-- Environment and deployment automation
-- Continuous improvement of **infraaudit**
+#### [`infraaudit`](https://github.com/civanmoreno/infraaudit) — CLI de auditoria de seguridad en Linux
+
+Herramienta de linea de comandos que audita servidores Linux contra **CIS Benchmarks**, **STIG** y buenas practicas de hardening. Valida configuracion del sistema, usuarios y permisos, servicios, puertos abiertos y la postura general de seguridad. Construida para VPS y entornos productivos reales.
+
+---
+
+### En lo que estoy enfocado ahora
+
+- Desarrollo de herramientas CLI para flujos DevOps
+- Seguridad y auditoria de infraestructura
+- Automatizacion de entornos y despliegues
+- Mejora continua de **infraaudit**
 
 ---
 
@@ -87,6 +87,6 @@ A command-line tool that audits Linux servers against **CIS Benchmarks**, **STIG
 
 <div align="center">
 
-*"Software should not just work — it should scale, stay secure, and be maintainable."*
+*"El software no solo debe funcionar — debe escalar, ser seguro y mantenible."*
 
 </div>
