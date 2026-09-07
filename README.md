@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-Ingeniero de software con **+10 anos** de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion.
+Ingeniero de software con **+10 años** de experiencia liderando equipos, disenando arquitecturas y llevando sistemas a produccion.
 
 Actualmente trabajo como **Tech Lead**, donde combino desarrollo hands-on con estrategia tecnica para entregar software de alta calidad.
 
